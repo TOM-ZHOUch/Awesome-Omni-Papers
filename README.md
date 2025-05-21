@@ -1,2 +1,6 @@
 # Awesome-Omni
-Awesome-Omni: a curated list of omni papers and resources.
+## 🌟 Overview
+## 🔍 Key Categories
+## 📚 Resource List
+| Title | Categories | Year | url |
+| --- | --- | --- | --- |
