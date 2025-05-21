@@ -1,4 +1,4 @@
-# # 🤖 Comprehensive Omni Research Collection
+# 🤖 Comprehensive Omni Research Collection
 ## 🌟 Overview
 ## 🔍 Key Categories
 ## 📚 Resource List
