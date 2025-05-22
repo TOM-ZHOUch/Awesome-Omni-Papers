@@ -15,4 +15,6 @@
 | Title | Categories | Year | url |
 | --- | --- | --- | --- |
 | Omni R: Evaluating Omni-modality Language Models on Reasoning across Modalities | Dataset | ICLR2025 | https://arxiv.org/pdf/2410.12219 |
+| OmniBench: Towards The Future of Universal Omni-Language Models | Benchmark | 2025 | https://arxiv.org/abs/2409.15272 |
+
 
